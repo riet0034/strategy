@@ -9,6 +9,7 @@ public class Product {
     }
 
     public double get_price() {
+
         return _price;
     }
 }
